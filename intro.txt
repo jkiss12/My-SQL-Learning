@@ -1,0 +1,6 @@
+Hi world
+
+greetings from Antrim. This repository is going to be about my jurney of learning SQL and git also.
+So I will be posting about my progress dayli. 
+
+Be good
